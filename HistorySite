@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>HTMLiveCode</title>
+		<style type="text/css">
+			
+		</style>
+		<script type="text/javascript">
+			
+		</script>
+	</head>
 
+	<body>
+		
+		<h1>US HISTORY</h1>
+		
+		<p>Welcome to my site</p>
+		
+		<li><button id="1">Revolutionary Era (1763-1789)</button></li>
+		<li><button id="2">Expansion and Reform (1789-1849)</button>
+		<li><button id="3">Abolitionism and Civil War (1849-1865) </button></li>
+	<li><button id="4">Reconstruction Era (1865-1877)</button></li>
+			<li><button id="5">Gilded Age/ Progressive Era (1877-1919)</button></li>
+			<li><button id="6">Roaring Twenties (1919-1929)</button></li>
+			<li><button id="7">Great Depression and WW2 (1929-1945)</button></li>
+			<li><button id="8">Postwar Boom Era / Civil Rights Movement (1945-1980)</button></li>
+			<li><button id="8">Neoliberal Era (1980-2016...?)</button></li>
+
+			
+		
+	</body>
+</html>
